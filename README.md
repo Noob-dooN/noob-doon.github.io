@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <head>
-  <title>Cold Isolation</title>
+  <title>
+    Cold Isolation
+  </title>
   <stylesheet>
     body{
       background-color: #000;
